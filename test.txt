@@ -1,1 +1,6 @@
-mmmmmmmxgxg	testbug01
+mmmmmmmxgxg	testbug0
+
+print(" fly to vulcan...");
+
+hello word 
+
