@@ -1,6 +1,3 @@
-mmmmmmmxgxg	testbug0
-
 print(" fly to vulcan...");
 
-hello word 
-
+print (" team test ");
